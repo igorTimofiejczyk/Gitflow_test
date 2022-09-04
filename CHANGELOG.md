@@ -17,6 +17,8 @@ Types of Changes:
 
 ## [Unreleased]
 
+## [0.1.3] - 2022-09-04
+
 ## [0.1.2] - 2022-08-10
 
 ## [0.1.1] - 2022-08-05
@@ -37,7 +39,9 @@ Types of Changes:
 
 ### Removed
 
-[Unreleased]: https://github.com/LockedThread/gitflow-test/compare/0.1.2...HEAD
+[Unreleased]: https://github.com/ihartsimafeichyk/Gitflow_test/compare/0.1.3...HEAD
+
+[0.1.3]: https://github.com/ihartsimafeichyk/Gitflow_test/compare/0.1.2...0.1.3
 
 [0.1.2]: https://github.com/LockedThread/gitflow-test/compare/0.1.1...0.1.2
 
