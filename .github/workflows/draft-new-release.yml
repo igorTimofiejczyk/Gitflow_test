@@ -45,7 +45,7 @@ jobs:
       - name: Create pull request
         uses: thomaseizinger/create-pull-request@1.0.0
         env:
-          TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           head: release/${{ github.event.inputs.version }}
           base: master
